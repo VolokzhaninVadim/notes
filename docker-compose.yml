@@ -11,9 +11,7 @@ services:
     healthcheck:
       test: curl -f http://localhost:8080/ || exit 1
     ports:
-      - 4501:8080
-      - 27123:27123
-      - 27124:27124
+      - 8080
     volumes:
       - /mnt/backup/documents/notes:/vaults:rw
       - ./config_obsidian:/config:rw
