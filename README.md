@@ -3,5 +3,7 @@
 
 Access via [nginx proxy manager](https://github.com/VolokzhaninVadim/npm).
 
+For app use plugin: `obsidian://show-plugin?id=notes-sync-share`
+
 Links
-1. [Obsidian container](https://github.com/sytone/obsidian-remote)
+1. [obsidian-remote](https://github.com/Alt-er/obsidian-sync-share?ysclid=m1w0pd1w6d846250637)
